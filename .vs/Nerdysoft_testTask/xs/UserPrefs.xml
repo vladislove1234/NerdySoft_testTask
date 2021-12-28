@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{2229C7F4-59EE-4C58-8108-0DDFBC992124}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Nerdysoft__tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Nerdysoft__testTask PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Nerdysoft_testTask/appsettings.json">
+    <Files>
+      <File FileName="Nerdysoft_testTask/Controllers/AnnouncementController.cs" Line="84" Column="89" />
+      <File FileName="Nerdysoft_testTask/Model/Abstraction/BaseEntity.cs" />
+      <File FileName="Nerdysoft_testTask/Model/Entities/AnnouncementEntities/Announcement.cs" Line="16" Column="68" />
+      <File FileName="Nerdysoft_testTask/Model/Entities/AnnouncementEntities/AddAnnouncementRequest.cs" Line="1" Column="1" />
+      <File FileName="Nerdysoft_testTask/Data/DataBaseContext.cs" />
+      <File FileName="Nerdysoft_testTask/Data/Interfaces/IRepository.cs" />
+      <File FileName="Nerdysoft_testTask/Data/Repository.cs" />
+      <File FileName="Nerdysoft_testTask/Startup.cs" />
+      <File FileName="Nerdysoft_testTask/Mapping/AnnouncementProfile.cs" />
+      <File FileName="Nerdysoft_testTask/Helpers/AnnouncementHelper.cs" Line="21" Column="100" />
+      <File FileName="Nerdysoft_tests/AnnouncementsCompareTest.cs" Line="11" Column="42" />
+      <File FileName="Nerdysoft_testTask/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Nerdysoft_testTask" expanded="True">
+            <Node name="Nerdysoft_tests" expanded="True" />
+            <Node name="Nerdysoft_testTask" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="Entities" expanded="True">
+                  <Node name="AnnouncementEntities" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

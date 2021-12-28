@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nerdysoft_testTask", "Nerdysoft_testTask\Nerdysoft_testTask.csproj", "{0691E0D0-549A-4D44-B304-943C2C6D0CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nerdysoft_tests", "Nerdysoft_tests\Nerdysoft_tests.csproj", "{2229C7F4-59EE-4C58-8108-0DDFBC992124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0691E0D0-549A-4D44-B304-943C2C6D0CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0691E0D0-549A-4D44-B304-943C2C6D0CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0691E0D0-549A-4D44-B304-943C2C6D0CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0691E0D0-549A-4D44-B304-943C2C6D0CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2229C7F4-59EE-4C58-8108-0DDFBC992124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2229C7F4-59EE-4C58-8108-0DDFBC992124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2229C7F4-59EE-4C58-8108-0DDFBC992124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2229C7F4-59EE-4C58-8108-0DDFBC992124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D52FD076-CD8D-4904-AA6B-7F98F8269570}
+	EndGlobalSection
+EndGlobal
