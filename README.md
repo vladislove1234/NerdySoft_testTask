@@ -1,1 +1,2 @@
-# NerdySoft_testTask
+# About Project
+Test task in NerdySoft. 
